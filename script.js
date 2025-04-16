@@ -33,5 +33,5 @@ function showResult(regNo) {
   document.getElementById('rank').innerText = student.rank;
   document.getElementById('scholarshipText').innerText =
    `Congratulations Dear ${student.name.toUpperCase()}, You will Get a Scholarship of ₹${student.amount}/-`;
- // document.getElementById('scholarshipText').classList.add('blinking');
+  document.getElementById('scholarshipText').classList.add('blinking');
 }
