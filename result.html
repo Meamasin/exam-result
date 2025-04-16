@@ -37,42 +37,6 @@
   <canvas id="confettiCanvas" style="position:fixed;top:0;left:0;width:100%;height:100%;pointer-events:none;z-index:9999;"></canvas>
 
   <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.5.1/dist/confetti.browser.min.js"></script>
-  <script>
-    async function fetchResults() {
-      const response = await fetch('results.json');
-      return await response.json();
-    }
-
-    async function searchResult() {
-      const regNo = document.getElementById('regInput').value.trim();
-      if (!regNo) return;
-
-      const results = await fetchResults();
-      const student = results.find(s => s.reg_no === regNo);
-
-      if (!student) {
-        alert('Result not found');
-        return;
-      }
-
-      document.getElementById('resultCard').classList.remove('hidden');
-      document.getElementById('rno').innerText = student.reg_no;
-      document.getElementById('name').innerText = student.name;
-      document.getElementById('mark').innerText = student.mark;
-      document.getElementById('rank').innerText = student.rank;
-
-      document.getElementById('blinkText').innerText = 'Congratulations!';
-      document.getElementById('blinkText').classList.add('blinking');
-      document.getElementById('scholarshipText').innerText =
-        ` Dear ${student.name.toUpperCase()}, You will Get a Scholarship of ₹${student.amount}/-`;
-
-      // Confetti burst
-      confetti({
-        particleCount: 200,
-        spread: 120,
-        origin: { y: 0.6 }
-      });
-    }
-  </script>
+  <script src="script.js"></script>
 </body>
 </html>
