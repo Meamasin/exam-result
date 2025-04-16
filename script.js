@@ -35,9 +35,9 @@ function showResult(regNo) {
     `Congratulations Dear ${student.name.toUpperCase()}, You will Get a Scholarship of ₹${student.amount}/-`;
   
   // Confetti launch
-//  confetti({
-//    particleCount: 150,
-//    spread: 100,
-//    origin: { y: 0.6 }
-//  });
+  confetti({
+    particleCount: 150,
+    spread: 100,
+    origin: { y: 0.6 }
+  });
 }
