@@ -2,26 +2,77 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Student Result</title>
-  <script src="script.js" defer></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MTSE Result 2025</title>
   <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+  <style>
+    .blinking {
+      animation: blink 1s step-start infinite;
+    }
+
+    @keyframes blink {
+      50% { opacity: 0; }
+    }
+  </style>
 </head>
-<body class="bg-green-50 min-h-screen flex items-center justify-center">
-  <div id="resultCard" class="hidden bg-white p-8 rounded-xl shadow-lg w-full max-w-lg text-center">
-    <img src="magnet.jpg" width="300" height="50" alt="Centered Image" style="display: block; margin: 0 auto;">
-    <h2 class="text-xl font-bold mb-4 text-green-700">MTSE PLUS ONE RESULT 2025</h2>
-    <div class="text-gray-800 space-y-2">
-      <p><strong>Register Number:</strong> <span id="rno"></span></p>
+<body class="bg-gray-100 text-gray-800 min-h-screen flex items-center justify-center p-4">
+  <div class="max-w-xl w-full bg-white p-6 rounded-2xl shadow-xl">
+    <h1 class="text-3xl font-bold text-center text-blue-600 mb-4">MTSE 2025 Result</h1>
+    <div class="mb-6">
+      <input type="text" id="regInput" placeholder="Enter Register Number" class="w-full border border-gray-300 rounded px-4 py-2 focus:outline-none focus:ring-2 focus:ring-blue-500">
+      <button onclick="searchResult()" class="mt-3 w-full bg-blue-600 text-white py-2 rounded hover:bg-blue-700 transition">Search</button>
+    </div>
+    <div id="resultCard" class="hidden border-t pt-4">
+      <p><strong>Register No:</strong> <span id="rno"></span></p>
       <p><strong>Name:</strong> <span id="name"></span></p>
       <p><strong>Mark:</strong> <span id="mark"></span></p>
       <p><strong>Rank:</strong> <span id="rank"></span></p>
+      <p class="mt-4 text-green-700 font-semibold">
+        <span id="blinkText"></span>
+        <span id="scholarshipText"></span>
+      </p>
     </div>
-    <div class="mt-6 bg-green-100 text-green-800 p-4 rounded-lg font-medium">
-      <p id="scholarshipText" class="font-bold text-lg"></p>
-      <p class="text-sm text-gray-500 mt-2">(Scholarship valid till May 15th)</p>
-    </div>
-    <a href="index.html" class="mt-6 inline-block bg-blue-600 text-white px-5 py-2 rounded hover:bg-blue-700">Check Another</a>
   </div>
-<script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.5.1/dist/confetti.browser.min.js"></script>
+
+  <canvas id="confettiCanvas" style="position:fixed;top:0;left:0;width:100%;height:100%;pointer-events:none;z-index:9999;"></canvas>
+
+  <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.5.1/dist/confetti.browser.min.js"></script>
+  <script>
+    async function fetchResults() {
+      const response = await fetch('results.json');
+      return await response.json();
+    }
+
+    async function searchResult() {
+      const regNo = document.getElementById('regInput').value.trim();
+      if (!regNo) return;
+
+      const results = await fetchResults();
+      const student = results.find(s => s.reg_no === regNo);
+
+      if (!student) {
+        alert('Result not found');
+        return;
+      }
+
+      document.getElementById('resultCard').classList.remove('hidden');
+      document.getElementById('rno').innerText = student.reg_no;
+      document.getElementById('name').innerText = student.name;
+      document.getElementById('mark').innerText = student.mark;
+      document.getElementById('rank').innerText = student.rank;
+
+      document.getElementById('blinkText').innerText = 'Congratulations!';
+      document.getElementById('blinkText').classList.add('blinking');
+      document.getElementById('scholarshipText').innerText =
+        ` Dear ${student.name.toUpperCase()}, You will Get a Scholarship of ₹${student.amount}/-`;
+
+      // Confetti burst
+      confetti({
+        particleCount: 200,
+        spread: 120,
+        origin: { y: 0.6 }
+      });
+    }
+  </script>
 </body>
 </html>
