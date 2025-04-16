@@ -31,7 +31,8 @@ function showResult(regNo) {
   document.getElementById('name').innerText = student.name;
   document.getElementById('mark').innerText = student.mark;
   document.getElementById('rank').innerText = student.rank;
-  document.getElementById('scholarshipText').innerText =
-   `Congratulations Dear ${student.name.toUpperCase()}, You will Get a Scholarship of ₹${student.amount}/-`;
-  document.getElementById('scholarshipText').classList.add('blinking');
+  const scholarshipText = `Congratulations Dear ${student.name.toUpperCase()}, You will Get a Scholarship of ₹${student.amount}/-`;
+  const scholarshipElem = document.getElementById('scholarshipText');
+  scholarshipElem.innerText = scholarshipText;
+  scholarshipElem.classList.add('blinking');
 }
