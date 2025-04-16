@@ -3,8 +3,18 @@
 <head>
   <meta charset="UTF-8">
   <title>Student Result</title>
+  <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.5.1/dist/confetti.browser.min.js" defer></script>
   <script src="script.js" defer></script>
   <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+  <style>
+    .blinking {
+      animation: blink 1s step-start infinite;
+    }
+
+    @keyframes blink {
+      50% { opacity: 0; }
+    }
+  </style>
 </head>
 <body class="bg-green-50 min-h-screen flex items-center justify-center">
   <div id="resultCard" class="hidden bg-white p-8 rounded-xl shadow-lg w-full max-w-lg text-center">
@@ -16,10 +26,14 @@
       <p><strong>Rank:</strong> <span id="rank"></span></p>
     </div>
     <div class="mt-6 bg-green-100 text-green-800 p-4 rounded-lg font-medium">
+      <p class="blinking font-semibold" id="blinkText"></p>
       <p id="scholarshipText"></p>
       <p class="text-sm text-gray-500 mt-2">(Scholarship valid till May 5th)</p>
     </div>
     <a href="index.html" class="mt-6 inline-block bg-blue-600 text-white px-5 py-2 rounded hover:bg-blue-700">Check Another</a>
   </div>
+
+  <!-- Confetti Canvas -->
+  <canvas id="confettiCanvas" style="position:fixed;top:0;left:0;width:100%;height:100%;pointer-events:none;z-index:9999;"></canvas>
 </body>
 </html>
