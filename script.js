@@ -33,4 +33,11 @@ function showResult(regNo) {
   document.getElementById('rank').innerText = student.rank;
   document.getElementById('scholarshipText').innerText =
     `Congratulations Dear ${student.name.toUpperCase()}, You will Get a Scholarship of ₹${student.amount}/-`;
+  
+  // Confetti launch
+  confetti({
+    particleCount: 150,
+    spread: 100,
+    origin: { y: 0.6 }
+  });
 }
