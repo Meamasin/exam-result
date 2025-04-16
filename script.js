@@ -32,6 +32,6 @@ function showResult(regNo) {
   document.getElementById('mark').innerText = student.mark;
   document.getElementById('rank').innerText = student.rank;
   document.getElementById('scholarshipText').innerText =
-   <blink> `Congratulations Dear ${student.name.toUpperCase()}, You will Get a Scholarship of ₹${student.amount}/-`;
-   </blink>
+   `Congratulations Dear ${student.name.toUpperCase()}, You will Get a Scholarship of ₹${student.amount}/-`;
+  document.getElementById('scholarshipText').classList.add('blinking');
 }
