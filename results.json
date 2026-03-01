@@ -1,6 +1,6 @@
 [
   {
-    "reg_no": 10109,
+    "reg_no": "10109",
     "name": "PRIYA LAKSHMI",
     "mark": 148,
     "rank": 1,
@@ -2240,3 +2240,4 @@
     "amount": 1000
   }
 ]
+
