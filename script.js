@@ -1,6 +1,6 @@
 let results = [];
 
-fetch('results.json')
+fetch('results.json?v=' + Date.now())
   .then(res => res.json())
   .then(data => {
     results = data;
@@ -14,7 +14,11 @@ fetch('results.json')
 
 function searchResult() {
   const regNo = document.getElementById('regInput').value.trim();
-  const student = results.find(s => s.reg_no === regNo);
+
+  const student = results.find(s => 
+    String(s.reg_no) === String(regNo)
+  );
+
   if (student) {
     window.location.href = `result.html?reg=${regNo}`;
   } else {
@@ -23,7 +27,10 @@ function searchResult() {
 }
 
 function showResult(regNo) {
-  const student = results.find(s => s.reg_no === regNo);
+  const student = results.find(s => 
+    String(s.reg_no) === String(regNo)
+  );
+
   if (!student) return;
 
   document.getElementById('resultCard').classList.remove('hidden');
@@ -33,8 +40,7 @@ function showResult(regNo) {
   document.getElementById('rank').innerText = student.rank;
   document.getElementById('scholarshipText').innerText =
     `Congratulations Dear ${student.name.toUpperCase()}, You will Get a Scholarship of ₹${student.amount}/-`;
-  
-  // Confetti launch
+
   confetti({
     particleCount: 150,
     spread: 100,
