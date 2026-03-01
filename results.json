@@ -1,2244 +1,968 @@
 [
   {
-    "reg_no":10109,
-    "name": "PRIYA LAKSHMI",
-    "mark": 148,
+    "reg_no": "10025",
+    "name": "Athira P T",
+    "mark": 160,
     "rank": 1,
-    "amount": 20000
+    "amount": 50000
   },
   {
-    "reg_no": 10160,
-    "name": "HARIDEV",
-    "mark": 130,
+    "reg_no": "10091",
+    "name": "Afnan V",
+    "mark": 158,
     "rank": 2,
-    "amount": 10000
+    "amount": 25000
   },
   {
-    "reg_no": 10125,
-    "name": "RIYA ZILNA",
-    "mark": 126,
+    "reg_no": "10111",
+    "name": "Shaheem Ali",
+    "mark": 158,
+    "rank": 2,
+    "amount": 25000
+  },
+  {
+    "reg_no": "10011",
+    "name": "Aiswarya Lakshmi O T",
+    "mark": 152,
     "rank": 3,
-    "amount": 7500
+    "amount": 12500
   },
   {
-    "reg_no": 10192,
-    "name": "MHD SHAHAL ZANEEN",
-    "mark": 125,
+    "reg_no": "10092",
+    "name": "Hadi Muhammad",
+    "mark": 152,
+    "rank": 3,
+    "amount": 12500
+  },
+  {
+    "reg_no": "10024",
+    "name": "Swethakarishna S",
+    "mark": 148,
     "rank": 4,
-    "amount": 5000
+    "amount": 2000
   },
   {
-    "reg_no": 10325,
-    "name": "MINHA FATHIMA",
-    "mark": 120,
+    "reg_no": "10057",
+    "name": "Aparna Vinodhan",
+    "mark": 148,
+    "rank": 4,
+    "amount": 2000
+  },
+  {
+    "reg_no": "10110",
+    "name": "Mazin Muhammad",
+    "mark": 147,
     "rank": 5,
-    "amount": 5000
+    "amount": 2000
   },
   {
-    "reg_no": 10195,
-    "name": "UJJWAL KRISHNA",
-    "mark": 119,
+    "reg_no": "10033",
+    "name": "Mishal M Grace",
+    "mark": 147,
+    "rank": 5,
+    "amount": 2000
+  },
+  {
+    "reg_no": "10163",
+    "name": "Sreya N P",
+    "mark": 145,
     "rank": 6,
-    "amount": 5000
+    "amount": 2000
   },
   {
-    "reg_no": 10153,
-    "name": "HRISHIN DP",
-    "mark": 116,
+    "reg_no": "10077",
+    "name": "Minshal Abdul Majeed",
+    "mark": 145,
+    "rank": 6,
+    "amount": 2000
+  },
+  {
+    "reg_no": "10084",
+    "name": "Muhammed Shazin",
+    "mark": 143,
     "rank": 7,
-    "amount": 5000
+    "amount": 2000
   },
   {
-    "reg_no": 10201,
-    "name": "JUNAH ZAMHA",
-    "mark": 115,
+    "reg_no": "10002",
+    "name": "Aysha Anha",
+    "mark": 142,
     "rank": 8,
-    "amount": 5000
+    "amount": 2000
   },
   {
-    "reg_no": 10115,
-    "name": "SANDWANA",
-    "mark": 110,
+    "reg_no": "10086",
+    "name": "Inam Ilahi",
+    "mark": 140,
     "rank": 9,
-    "amount": 5000
+    "amount": 2000
   },
   {
-    "reg_no": 10114,
-    "name": "FATHIMA FARHA ",
-    "mark": 108,
+    "reg_no": "10087",
+    "name": "Badrinath N P",
+    "mark": 140,
+    "rank": 9,
+    "amount": 2000
+  },
+  {
+    "reg_no": "10085",
+    "name": "Afin Abdulla K",
+    "mark": 140,
+    "rank": 9,
+    "amount": 2000
+  },
+  {
+    "reg_no": "10088",
+    "name": "Haneen Muhammed K",
+    "mark": 140,
+    "rank": 9,
+    "amount": 2000
+  },
+  {
+    "reg_no": "10094",
+    "name": "Muhammed Masmid O V",
+    "mark": 138,
     "rank": 10,
-    "amount": 5000
+    "amount": 2000
   },
   {
-    "reg_no": 10107,
-    "name": "SANMAYA K.P",
-    "mark": 108,
+    "reg_no": "10070",
+    "name": "Muhammad Salim",
+    "mark": 138,
+    "rank": 10,
+    "amount": 2000
+  },
+  {
+    "reg_no": "10093",
+    "name": "Sanin Muhammad",
+    "mark": 137,
     "rank": 11,
-    "amount": 2500
+    "amount": 1000
   },
   {
-    "reg_no": 10231,
-    "name": "SHIFANA",
-    "mark": 107,
+    "reg_no": "10097",
+    "name": "Dhyan Thej J B",
+    "mark": 135,
     "rank": 12,
-    "amount": 2500
+    "amount": 1000
   },
   {
-    "reg_no": 10351,
-    "name": "HRIDYA R MOHAN",
-    "mark": 105,
+    "reg_no": "10052",
+    "name": "Devatheertha R Babu",
+    "mark": 133,
+    "rank": 12,
+    "amount": 1000
+  },
+  {
+    "reg_no": "10001",
+    "name": "Thejalakshmi S A",
+    "mark": 133,
+    "rank": 12,
+    "amount": 1000
+  },
+  {
+    "reg_no": "10041",
+    "name": "Assin K",
+    "mark": 131,
     "rank": 13,
-    "amount": 2500
+    "amount": 1000
   },
   {
-    "reg_no": 10147,
-    "name": "NAINIKA B.S",
-    "mark": 104,
+    "reg_no": "10109",
+    "name": "Abin Sinoj",
+    "mark": 131,
+    "rank": 13,
+    "amount": 1000
+  },
+  {
+    "reg_no": "10162",
+    "name": "Veda Lakshmi P S",
+    "mark": 130,
     "rank": 14,
-    "amount": 2500
+    "amount": 1000
   },
   {
-    "reg_no": 10154,
-    "name": "MUHAD SHADIN KK",
-    "mark": 103,
+    "reg_no": "10069",
+    "name": "Hanaan Ahmed",
+    "mark": 130,
+    "rank": 14,
+    "amount": 1000
+  },
+  {
+    "reg_no": "10017",
+    "name": "Anushmika",
+    "mark": 127,
     "rank": 15,
-    "amount": 2500
+    "amount": 1000
   },
   {
-    "reg_no": 10130,
-    "name": "S B VAIGALAKSHMI",
-    "mark": 102,
+    "reg_no": "10158",
+    "name": "Haya Hamina Hameed",
+    "mark": 127,
+    "rank": 15,
+    "amount": 1000
+  },
+  {
+    "reg_no": "10090",
+    "name": "Muhammed Fadhil K P",
+    "mark": 126,
     "rank": 16,
-    "amount": 2500
+    "amount": 1000
   },
   {
-    "reg_no": 10330,
-    "name": "ANN MIRSHA K",
-    "mark": 101,
+    "reg_no": "10036",
+    "name": "Sreenandana",
+    "mark": 125,
     "rank": 17,
-    "amount": 2500
+    "amount": 1000
   },
   {
-    "reg_no": 10204,
-    "name": "NISHWA",
-    "mark": 96,
+    "reg_no": "10154",
+    "name": "Safa V C",
+    "mark": 125,
+    "rank": 17,
+    "amount": 1000
+  },
+  {
+    "reg_no": "10038",
+    "name": "Sreelakshmi M T",
+    "mark": 124,
     "rank": 18,
-    "amount": 2500
+    "amount": 1000
   },
   {
-    "reg_no": 10319,
-    "name": "RIZVANA FATHIMA",
-    "mark": 95,
+    "reg_no": "10035",
+    "name": "Ashima C K",
+    "mark": 123,
     "rank": 19,
-    "amount": 2500
+    "amount": 1000
   },
   {
-    "reg_no": 10250,
-    "name": "MEZIN MUHAMMED",
-    "mark": 95,
+    "reg_no": "10108",
+    "name": "Aamir Rizan N T",
+    "mark": 122,
     "rank": 20,
-    "amount": 2500
+    "amount": 1000
   },
   {
-    "reg_no": 10223,
-    "name": "SAIGA M",
-    "mark": 94,
+    "reg_no": "10076",
+    "name": "Muhammed Najad N",
+    "mark": 121,
     "rank": 21,
     "amount": 1000
   },
   {
-    "reg_no": 10322,
-    "name": "AMINA MHD JAFAR",
-    "mark": 93,
+    "reg_no": "10082",
+    "name": "Muhammad Nafidh",
+    "mark": 121,
+    "rank": 21,
+    "amount": 1000
+  },
+  {
+    "reg_no": "10153",
+    "name": "Marva V C",
+    "mark": 120,
     "rank": 22,
     "amount": 1000
   },
   {
-    "reg_no": 10273,
-    "name": "FIDHA FATHIMA",
-    "mark": 90,
+    "reg_no": "10075",
+    "name": "Muhammed Liyan K P",
+    "mark": 120,
+    "rank": 22,
+    "amount": 1000
+  },
+  {
+    "reg_no": "10072",
+    "name": "Adnan M K",
+    "mark": 120,
+    "rank": 22,
+    "amount": 1000
+  },
+  {
+    "reg_no": "10032",
+    "name": "",
+    "mark": 119,
     "rank": 23,
     "amount": 1000
   },
   {
-    "reg_no": 10274,
-    "name": "AYISHA FARHA",
-    "mark": 90,
+    "reg_no": "10022",
+    "name": "Hadiya Amna Beeba",
+    "mark": 118,
     "rank": 24,
     "amount": 1000
   },
   {
-    "reg_no": 10131,
-    "name": "HEINA NK",
-    "mark": 90,
+    "reg_no": "10074",
+    "name": "Abhay Krishna",
+    "mark": 117,
     "rank": 25,
     "amount": 1000
   },
   {
-    "reg_no": 10237,
-    "name": "MUHD RAYAN KK ",
-    "mark": 90,
+    "reg_no": "10150",
+    "name": "Shahana Sharin",
+    "mark": 116,
     "rank": 26,
     "amount": 1000
   },
   {
-    "reg_no": 10156,
-    "name": "MHD AFNAS",
-    "mark": 89,
+    "reg_no": "10160",
+    "name": "Wafa Abdul Majeed",
+    "mark": 116,
+    "rank": 26,
+    "amount": 1000
+  },
+  {
+    "reg_no": "10159",
+    "name": "Wafi Abdul Majeed",
+    "mark": 116,
+    "rank": 26,
+    "amount": 1000
+  },
+  {
+    "reg_no": "10152",
+    "name": "Ridha Fathima",
+    "mark": 115,
     "rank": 27,
     "amount": 1000
   },
   {
-    "reg_no": 10332,
-    "name": "AYISHA MEHRIN NK",
-    "mark": 88,
+    "reg_no": "10073",
+    "name": "Muhammad Afnan",
+    "mark": 115,
+    "rank": 27,
+    "amount": 1000
+  },
+  {
+    "reg_no": "10071",
+    "name": "Finan Vaheed",
+    "mark": 115,
+    "rank": 27,
+    "amount": 1000
+  },
+  {
+    "reg_no": "10161",
+    "name": "Fathima K",
+    "mark": 115,
+    "rank": 27,
+    "amount": 1000
+  },
+  {
+    "reg_no": "10157",
+    "name": "Laamia M K",
+    "mark": 115,
+    "rank": 27,
+    "amount": 1000
+  },
+  {
+    "reg_no": "10155",
+    "name": "Fathima Minna",
+    "mark": 115,
+    "rank": 27,
+    "amount": 1000
+  },
+  {
+    "reg_no": "10144",
+    "name": "Rifa Fathima",
+    "mark": 115,
+    "rank": 27,
+    "amount": 1000
+  },
+  {
+    "reg_no": "10009",
+    "name": "Sanha Fathima",
+    "mark": 115,
+    "rank": 27,
+    "amount": 1000
+  },
+  {
+    "reg_no": "10064",
+    "name": "Lana Mehabin",
+    "mark": 115,
+    "rank": 27,
+    "amount": 1000
+  },
+  {
+    "reg_no": "10053",
+    "name": "Hiba Fathima",
+    "mark": 113,
     "rank": 28,
     "amount": 1000
   },
   {
-    "reg_no": 10255,
-    "name": "MHD FARHAN",
-    "mark": 87,
+    "reg_no": "10013",
+    "name": "Malavika",
+    "mark": 111,
     "rank": 29,
     "amount": 1000
   },
   {
-    "reg_no": 10116,
-    "name": "NAKSHTHRA SAJU",
-    "mark": 85,
+    "reg_no": "10040",
+    "name": "Ruthunanda",
+    "mark": 111,
+    "rank": 29,
+    "amount": 1000
+  },
+  {
+    "reg_no": "10068",
+    "name": "Niranj Sankar",
+    "mark": 111,
+    "rank": 29,
+    "amount": 1000
+  },
+  {
+    "reg_no": "10112",
+    "name": "Navaneeth C P",
+    "mark": 110,
     "rank": 30,
     "amount": 1000
   },
   {
-    "reg_no": 10206,
-    "name": "VYSHNAVI PK",
-    "mark": 85,
+    "reg_no": "10156",
+    "name": "Wafa Abdul Salam",
+    "mark": 110,
+    "rank": 30,
+    "amount": 1000
+  },
+  {
+    "reg_no": "10046",
+    "name": "Nila Nanda N K",
+    "mark": 110,
+    "rank": 30,
+    "amount": 1000
+  },
+  {
+    "reg_no": "10080",
+    "name": "Anjal S Ashok",
+    "mark": 110,
+    "rank": 30,
+    "amount": 1000
+  },
+  {
+    "reg_no": "10164",
+    "name": "Vaiga S Vineesh",
+    "mark": 110,
+    "rank": 30,
+    "amount": 1000
+  },
+  {
+    "reg_no": "10034",
+    "name": "Ashliya",
+    "mark": 108,
     "rank": 31,
     "amount": 1000
   },
   {
-    "reg_no": 10238,
-    "name": "IHTHISHAM P.P",
-    "mark": 85,
+    "reg_no": "10065",
+    "name": "Muhammed M P",
+    "mark": 105,
     "rank": 32,
     "amount": 1000
   },
   {
-    "reg_no": 10367,
-    "name": "NASLIYA",
-    "mark": 85,
+    "reg_no": "10098",
+    "name": "Muhammad Rihan Anzar",
+    "mark": 105,
+    "rank": 32,
+    "amount": 1000
+  },
+  {
+    "reg_no": "10147",
+    "name": "Fadiya K M",
+    "mark": 105,
+    "rank": 32,
+    "amount": 1000
+  },
+  {
+    "reg_no": "10081",
+    "name": "Kiran Chand",
+    "mark": 105,
+    "rank": 32,
+    "amount": 1000
+  },
+  {
+    "reg_no": "10151",
+    "name": "Reja Fathima K",
+    "mark": 105,
+    "rank": 32,
+    "amount": 1000
+  },
+  {
+    "reg_no": "10106",
+    "name": "Misbah Benher",
+    "mark": 104,
     "rank": 33,
     "amount": 1000
   },
   {
-    "reg_no": 10333,
-    "name": "MINHA KADHEEJA ",
-    "mark": 84,
+    "reg_no": "10114",
+    "name": "Hemanth L S",
+    "mark": 103,
     "rank": 34,
     "amount": 1000
   },
   {
-    "reg_no": 10321,
-    "name": "LAIBA FATHIMA",
-    "mark": 82,
+    "reg_no": "10089",
+    "name": "Devanand T V",
+    "mark": 101,
     "rank": 35,
     "amount": 1000
   },
   {
-    "reg_no": 10230,
-    "name": "RIFA FATHIMA K",
-    "mark": 81,
+    "reg_no": "10016",
+    "name": "Archana S",
+    "mark": 101,
+    "rank": 35,
+    "amount": 1000
+  },
+  {
+    "reg_no": "10105",
+    "name": "Fersin Ahmad Saleem",
+    "mark": 100,
     "rank": 36,
     "amount": 1000
   },
   {
-    "reg_no": 10214,
-    "name": "NIHA NISHAM ",
-    "mark": 81,
+    "reg_no": "10148",
+    "name": "Najiya Fathima N K",
+    "mark": 100,
+    "rank": 36,
+    "amount": 1000
+  },
+  {
+    "reg_no": "10023",
+    "name": "Naja Fathima",
+    "mark": 100,
+    "rank": 36,
+    "amount": 1000
+  },
+  {
+    "reg_no": "10037",
+    "name": "Thejalakshmi",
+    "mark": 100,
+    "rank": 36,
+    "amount": 1000
+  },
+  {
+    "reg_no": "10062",
+    "name": "Anamika M K",
+    "mark": 100,
+    "rank": 36,
+    "amount": 1000
+  },
+  {
+    "reg_no": "10021",
+    "name": "Seethu Parvana K",
+    "mark": 96,
     "rank": 37,
     "amount": 1000
   },
   {
-    "reg_no": 10108,
-    "name": "DEVAHIDA R",
-    "mark": 80,
+    "reg_no": "10149",
+    "name": "Kanishka Surendran",
+    "mark": 95,
     "rank": 38,
     "amount": 1000
   },
   {
-    "reg_no": 10375,
-    "name": "MUHD ASHAD",
-    "mark": 79,
+    "reg_no": "10146",
+    "name": "Namiya Siwa K",
+    "mark": 95,
+    "rank": 38,
+    "amount": 1000
+  },
+  {
+    "reg_no": "10066",
+    "name": "Muhammad Sinan K",
+    "mark": 95,
+    "rank": 38,
+    "amount": 1000
+  },
+  {
+    "reg_no": "10028",
+    "name": "Minha Lamees",
+    "mark": 90,
     "rank": 39,
     "amount": 1000
   },
   {
-    "reg_no": 10141,
-    "name": "RIMNA MEHABIN",
-    "mark": 78,
+    "reg_no": "10029",
+    "name": "Fathimathul Zahra",
+    "mark": 90,
+    "rank": 39,
+    "amount": 1000
+  },
+  {
+    "reg_no": "10051",
+    "name": "Saja Fathima K",
+    "mark": 90,
+    "rank": 39,
+    "amount": 1000
+  },
+  {
+    "reg_no": "10019",
+    "name": "Sreenaya K",
+    "mark": 91,
     "rank": 40,
     "amount": 1000
   },
   {
-    "reg_no": 10312,
-    "name": "HANNA THWAIBA",
-    "mark": 77,
+    "reg_no": "10039",
+    "name": "Sivanya T",
+    "mark": 89,
     "rank": 41,
     "amount": 1000
   },
   {
-    "reg_no": 10132,
-    "name": "THEJA LS",
-    "mark": 76,
+    "reg_no": "10010",
+    "name": "Adithya A",
+    "mark": 85,
     "rank": 42,
     "amount": 1000
   },
   {
-    "reg_no": 10318,
-    "name": "FAIHA FATHIMA",
-    "mark": 76,
+    "reg_no": "10048",
+    "name": "Ayisha Sama N M",
+    "mark": 80,
     "rank": 43,
     "amount": 1000
   },
   {
-    "reg_no": 10326,
-    "name": "HANA FATHIMA",
-    "mark": 75,
+    "reg_no": "10027",
+    "name": "Shada Fathima",
+    "mark": 80,
+    "rank": 43,
+    "amount": 1000
+  },
+  {
+    "reg_no": "10007",
+    "name": "Niya Manoj A",
+    "mark": 80,
+    "rank": 43,
+    "amount": 1000
+  },
+  {
+    "reg_no": "10113",
+    "name": "Muhammad Rithaj",
+    "mark": 80,
+    "rank": 43,
+    "amount": 1000
+  },
+  {
+    "reg_no": "10006",
+    "name": "Devna Pavithra",
+    "mark": 80,
+    "rank": 43,
+    "amount": 1000
+  },
+  {
+    "reg_no": "10015",
+    "name": "Ashika Lakshmi K T",
+    "mark": 80,
+    "rank": 43,
+    "amount": 1000
+  },
+  {
+    "reg_no": "10047",
+    "name": "Hana Fathima",
+    "mark": 78,
     "rank": 44,
     "amount": 1000
   },
   {
-    "reg_no": 10309,
-    "name": "NAJA FATHWIMA NK",
-    "mark": 73,
+    "reg_no": "10050",
+    "name": "Shifa Fathima",
+    "mark": 77,
     "rank": 45,
     "amount": 1000
   },
   {
-    "reg_no": 10329,
-    "name": "SHYMA MARIYAM",
-    "mark": 72,
+    "reg_no": "10142",
+    "name": "Fathimathul Luthufa",
+    "mark": 75,
     "rank": 46,
     "amount": 1000
   },
   {
-    "reg_no": 10152,
-    "name": "ANUDEV CP",
-    "mark": 72,
+    "reg_no": "10083",
+    "name": "Sharown",
+    "mark": 75,
+    "rank": 46,
+    "amount": 1000
+  },
+  {
+    "reg_no": "10008",
+    "name": "Sneha N K",
+    "mark": 74,
     "rank": 47,
     "amount": 1000
   },
   {
-    "reg_no": 10254,
-    "name": "HADI HAMDAN ",
-    "mark": 72,
+    "reg_no": "10095",
+    "name": "Muhammed Finan M K",
+    "mark": 74,
+    "rank": 47,
+    "amount": 1000
+  },
+  {
+    "reg_no": "10030",
+    "name": "Diya Manoj",
+    "mark": 71,
     "rank": 48,
     "amount": 1000
   },
   {
-    "reg_no": 10246,
-    "name": "MUHD SHADIN CM",
-    "mark": 72,
+    "reg_no": "10079",
+    "name": "Muhammed Bilal",
+    "mark": 70,
     "rank": 49,
     "amount": 1000
   },
   {
-    "reg_no": 10104,
-    "name": "RIYA FATHIMA ",
-    "mark": 71,
+    "reg_no": "10067",
+    "name": "Anujith O T",
+    "mark": 69,
     "rank": 50,
     "amount": 1000
   },
   {
-    "reg_no": 10200,
-    "name": "NEDHIGA MS",
-    "mark": 70,
+    "reg_no": "10042",
+    "name": "Veenus Joji",
+    "mark": 65,
     "rank": 51,
     "amount": 1000
   },
   {
-    "reg_no": 10247,
-    "name": "MUHD RAIHAN",
-    "mark": 70,
+    "reg_no": "10018",
+    "name": "Fasna",
+    "mark": 64,
     "rank": 52,
     "amount": 1000
   },
   {
-    "reg_no": 10299,
-    "name": "MINHA NASREEN",
-    "mark": 70,
+    "reg_no": "10031",
+    "name": "Abhinanda A V",
+    "mark": 64,
+    "rank": 52,
+    "amount": 1000
+  },
+  {
+    "reg_no": "10049",
+    "name": "Dulfa",
+    "mark": 64,
+    "rank": 52,
+    "amount": 1000
+  },
+  {
+    "reg_no": "10078",
+    "name": "Yadhav Krishna",
+    "mark": 61,
     "rank": 53,
     "amount": 1000
   },
   {
-    "reg_no": 10106,
-    "name": "DIYA V.P",
-    "mark": 70,
+    "reg_no": "10061",
+    "name": "Shivani Shaju",
+    "mark": 60,
     "rank": 54,
     "amount": 1000
   },
   {
-    "reg_no": 10162,
-    "name": "DILDAS MANI",
-    "mark": 70,
+    "reg_no": "10145",
+    "name": "Shiyana",
+    "mark": 60,
+    "rank": 54,
+    "amount": 1000
+  },
+  {
+    "reg_no": "10059",
+    "name": "Niranjana S R",
+    "mark": 58,
     "rank": 55,
     "amount": 1000
   },
   {
-    "reg_no": 10133,
-    "name": "DEVATHMIKA K.B",
-    "mark": 70,
+    "reg_no": "10103",
+    "name": "Liba Aleena",
+    "mark": 58,
+    "rank": 55,
+    "amount": 1000
+  },
+  {
+    "reg_no": "10012",
+    "name": "Sana Aksar",
+    "mark": 57,
     "rank": 56,
     "amount": 1000
   },
   {
-    "reg_no": 10142,
-    "name": "NAININKA P.P",
-    "mark": 69,
+    "reg_no": "10005",
+    "name": "Vaigha M S",
+    "mark": 55,
     "rank": 57,
     "amount": 1000
   },
   {
-    "reg_no": 10232,
-    "name": "BHOOMIKA",
-    "mark": 69,
+    "reg_no": "10056",
+    "name": "Niveditha Babu",
+    "mark": 53,
     "rank": 58,
     "amount": 1000
   },
   {
-    "reg_no": 10361,
-    "name": "NIMRA ZAHANA",
-    "mark": 68,
+    "reg_no": "10060",
+    "name": "Ashmika S P",
+    "mark": 51,
     "rank": 59,
     "amount": 1000
   },
   {
-    "reg_no": 10157,
-    "name": "THEJAS M",
-    "mark": 68,
+    "reg_no": "10014",
+    "name": "Haleema Beevi",
+    "mark": 50,
     "rank": 60,
     "amount": 1000
   },
   {
-    "reg_no": 10293,
-    "name": "HANOONA HANIN",
-    "mark": 67,
+    "reg_no": "10117",
+    "name": "Farhath",
+    "mark": 50,
+    "rank": 60,
+    "amount": 1000
+  },
+  {
+    "reg_no": "10017",
+    "name": "Agnidev A R",
+    "mark": 46,
     "rank": 61,
     "amount": 1000
   },
   {
-    "reg_no": 10242,
-    "name": "MUHD HILAL",
-    "mark": 67,
+    "reg_no": "10003",
+    "name": "Liba Fathima P",
+    "mark": 45,
     "rank": 62,
     "amount": 1000
   },
   {
-    "reg_no": 10113,
-    "name": "DIYA DINESH",
-    "mark": 66,
+    "reg_no": "10058",
+    "name": "Archana V S",
+    "mark": 45,
+    "rank": 62,
+    "amount": 1000
+  },
+  {
+    "reg_no": "10141",
+    "name": "Ayisha Sameeha",
+    "mark": 44,
     "rank": 63,
     "amount": 1000
   },
   {
-    "reg_no": 10380,
-    "name": "MIZA NAZRIN",
-    "mark": 65,
+    "reg_no": "10099",
+    "name": "Sreeved",
+    "mark": 43,
     "rank": 64,
     "amount": 1000
   },
   {
-    "reg_no": 10262,
-    "name": "RAIHAN O",
-    "mark": 65,
+    "reg_no": "10063",
+    "name": "Shafna",
+    "mark": 42,
     "rank": 65,
     "amount": 1000
   },
   {
-    "reg_no": 10227,
-    "name": "MINHA FATHIMA ",
-    "mark": 65,
+    "reg_no": "10118",
+    "name": "Hisana Thasli",
+    "mark": 41,
     "rank": 66,
     "amount": 1000
   },
   {
-    "reg_no": NaN,
-    "name": "DILSHIN RAJESH",
-    "mark": 65,
+    "reg_no": "10020",
+    "name": "Niha Fathima",
+    "mark": 40,
     "rank": 67,
     "amount": 1000
   },
   {
-    "reg_no": 10335,
-    "name": "SHIZA FATHIMA",
-    "mark": 64,
+    "reg_no": "10104",
+    "name": "Minha N K",
+    "mark": 40,
+    "rank": 67,
+    "amount": 1000
+  },
+  {
+    "reg_no": "10096",
+    "name": "Adhish S",
+    "mark": 35,
     "rank": 68,
     "amount": 1000
   },
   {
-    "reg_no": 10241,
-    "name": "NAYANTHEJ",
-    "mark": 63,
+    "reg_no": "10045",
+    "name": "Asna Sherin",
+    "mark": 30,
     "rank": 69,
     "amount": 1000
   },
   {
-    "reg_no": 10213,
-    "name": "LIBA AFRIN",
-    "mark": 62,
+    "reg_no": "10044",
+    "name": "Shana A",
+    "mark": 30,
+    "rank": 69,
+    "amount": 1000
+  },
+  {
+    "reg_no": "10043",
+    "name": "Sayana K",
+    "mark": 30,
+    "rank": 69,
+    "amount": 1000
+  },
+  {
+    "reg_no": "10026",
+    "name": "Fathima Femitha Junu",
+    "mark": 30,
+    "rank": 69,
+    "amount": 1000
+  },
+  {
+    "reg_no": "10100",
+    "name": "Sreehari",
+    "mark": 27,
     "rank": 70,
     "amount": 1000
   },
   {
-    "reg_no": 10210,
-    "name": "FAIHA AMRIN",
-    "mark": 62,
+    "reg_no": "10054",
+    "name": "Devanandha P K",
+    "mark": 22,
     "rank": 71,
     "amount": 1000
   },
   {
-    "reg_no": 10263,
-    "name": "MHD HAMDAN",
-    "mark": 62,
+    "reg_no": "10055",
+    "name": "Jinananda R J",
+    "mark": 21,
     "rank": 72,
     "amount": 1000
   },
   {
-    "reg_no": 10303,
-    "name": "NINA HAYATH",
-    "mark": 62,
+    "reg_no": "10004",
+    "name": "Sreeveda S",
+    "mark": 20,
     "rank": 73,
     "amount": 1000
   },
   {
-    "reg_no": 10358,
-    "name": "ANEES ALI",
-    "mark": 61,
+    "reg_no": "10101",
+    "name": "Anudev",
+    "mark": 19,
     "rank": 74,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10181,
-    "name": "MHD RIHAN",
-    "mark": 61,
-    "rank": 75,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10300,
-    "name": "HANNA FATHIMA KV",
-    "mark": 61,
-    "rank": 76,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10381,
-    "name": "HANIYA NAZNEEM",
-    "mark": 60,
-    "rank": 77,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10317,
-    "name": "RIYA PREMOD",
-    "mark": 60,
-    "rank": 78,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10323,
-    "name": "HANIYA FATHIMA",
-    "mark": 60,
-    "rank": 79,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10233,
-    "name": "NIVED KRISHNA",
-    "mark": 60,
-    "rank": 80,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10379,
-    "name": "ANUNANDA",
-    "mark": 60,
-    "rank": 81,
-    "amount": 1000
-  },
-  {
-    "reg_no": NaN,
-    "name": "RANA FATHIMA",
-    "mark": 59,
-    "rank": 82,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10320,
-    "name": "HAYA FATHIMA",
-    "mark": 59,
-    "rank": 83,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10170,
-    "name": "ADARSH V.C",
-    "mark": 59,
-    "rank": 84,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10271,
-    "name": "AYISHA MUNEER",
-    "mark": 58,
-    "rank": 85,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10161,
-    "name": "ADHIDEV",
-    "mark": 58,
-    "rank": 86,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10264,
-    "name": "FADHIL SUBAIR",
-    "mark": 58,
-    "rank": 87,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10376,
-    "name": "HAYA  FATHIMA E.V",
-    "mark": 57,
-    "rank": 88,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10369,
-    "name": "ANAMIKA S BABU",
-    "mark": 57,
-    "rank": 89,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10129,
-    "name": "HARIPRIYA SURESH",
-    "mark": 57,
-    "rank": 90,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10278,
-    "name": "RANA KADEEJA",
-    "mark": 56,
-    "rank": 91,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10212,
-    "name": "AYSHA AMNA",
-    "mark": 56,
-    "rank": 92,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10374,
-    "name": "HANA FATHIMA",
-    "mark": 55,
-    "rank": 93,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10226,
-    "name": "NANDA LAKSHMI",
-    "mark": 55,
-    "rank": 94,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10277,
-    "name": "AMEENA MT",
-    "mark": 55,
-    "rank": 95,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10301,
-    "name": "RIZWA MEHRIN",
-    "mark": 55,
-    "rank": 96,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10198,
-    "name": "RIDHA FATHIMA",
-    "mark": 55,
-    "rank": 97,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10265,
-    "name": "MUHD FARHAN",
-    "mark": 53,
-    "rank": 98,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10235,
-    "name": "NAZAN ABDULLA",
-    "mark": 53,
-    "rank": 99,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10211,
-    "name": "MEHAR THAHANIY PK",
-    "mark": 53,
-    "rank": 100,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10140,
-    "name": "RITHULAKSHMI",
-    "mark": 52,
-    "rank": 101,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10209,
-    "name": "AYISHA LUTHFA ",
-    "mark": 52,
-    "rank": 102,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10216,
-    "name": "SANVIYA",
-    "mark": 52,
-    "rank": 103,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10145,
-    "name": "ABHITHRAYA DAS. C",
-    "mark": 52,
-    "rank": 104,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10217,
-    "name": "HADIYA MARIYAM",
-    "mark": 52,
-    "rank": 105,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10272,
-    "name": "RIDHA MEHRIN",
-    "mark": 51,
-    "rank": 106,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10252,
-    "name": "MHD YASEEN",
-    "mark": 51,
-    "rank": 107,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10167,
-    "name": "HARI KRISHNA",
-    "mark": 51,
-    "rank": 108,
-    "amount": 1000
-  },
-  {
-    "reg_no": NaN,
-    "name": "ABHIJITH K.M",
-    "mark": 51,
-    "rank": 109,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10349,
-    "name": "SAJIYA FATHIMA",
-    "mark": 51,
-    "rank": 110,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10282,
-    "name": "RIYA FATHIMA",
-    "mark": 51,
-    "rank": 111,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10360,
-    "name": "FARIZ ABDUL SALAM",
-    "mark": 51,
-    "rank": 112,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10102,
-    "name": "ANGEL",
-    "mark": 51,
-    "rank": 113,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10207,
-    "name": "SRIGDHASREE A",
-    "mark": 51,
-    "rank": 114,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10347,
-    "name": "RUBHA FATHIMA",
-    "mark": 50,
-    "rank": 115,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10110,
-    "name": "NIYA PP",
-    "mark": 50,
-    "rank": 116,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10377,
-    "name": "HIFINSHAN",
-    "mark": 50,
-    "rank": 117,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10338,
-    "name": "FATHIMA ZAHRA",
-    "mark": 50,
-    "rank": 118,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10245,
-    "name": "MHD JANEES",
-    "mark": 50,
-    "rank": 119,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10182,
-    "name": "MHD RUYAN K",
-    "mark": 50,
-    "rank": 120,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10292,
-    "name": "RIJA FATHIMA ",
-    "mark": 50,
-    "rank": 121,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10117,
-    "name": "MEDHA GOURI",
-    "mark": 50,
-    "rank": 122,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10280,
-    "name": "SAIHA MISRIN",
-    "mark": 49,
-    "rank": 123,
-    "amount": 1000
-  },
-  {
-    "reg_no": NaN,
-    "name": "HANA FATHIMA",
-    "mark": 49,
-    "rank": 124,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10316,
-    "name": "FATHIMA JISFAA",
-    "mark": 49,
-    "rank": 125,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10138,
-    "name": "DEVNA R MADHU",
-    "mark": 48,
-    "rank": 126,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10197,
-    "name": "ANANYA MANOJ",
-    "mark": 48,
-    "rank": 127,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10266,
-    "name": "HADI ANWAR",
-    "mark": 48,
-    "rank": 128,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10285,
-    "name": "FARHA FATHIMA",
-    "mark": 48,
-    "rank": 129,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10315,
-    "name": "RIFA FATHIMA ",
-    "mark": 48,
-    "rank": 130,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10122,
-    "name": "ADHIKA VM",
-    "mark": 47,
-    "rank": 131,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10302,
-    "name": "AMINA ROUMI",
-    "mark": 47,
-    "rank": 132,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10215,
-    "name": "FATHIMA NASHEER",
-    "mark": 47,
-    "rank": 133,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10144,
-    "name": "HARISHNA RINEESH",
-    "mark": 47,
-    "rank": 134,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10128,
-    "name": "AYISHATHUL HANNA",
-    "mark": 46,
-    "rank": 135,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10269,
-    "name": "ANSILA SHERIN",
-    "mark": 46,
-    "rank": 136,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10363,
-    "name": "RANNA FATHIMA",
-    "mark": 46,
-    "rank": 137,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10259,
-    "name": "MHD HAMDAN",
-    "mark": 45,
-    "rank": 138,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10176,
-    "name": "DILSHAD",
-    "mark": 45,
-    "rank": 139,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10239,
-    "name": "MUHAMMED NAJIH",
-    "mark": 45,
-    "rank": 140,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10180,
-    "name": "MHD AFLAH",
-    "mark": 45,
-    "rank": 141,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10208,
-    "name": "AYISHA NASRIYA",
-    "mark": 45,
-    "rank": 142,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10137,
-    "name": "ALANIA RAMESH",
-    "mark": 45,
-    "rank": 143,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10249,
-    "name": "ADHIDEV KK",
-    "mark": 45,
-    "rank": 144,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10127,
-    "name": "RENSHA MEHARIN",
-    "mark": 44,
-    "rank": 145,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10362,
-    "name": "RANA FATHIMA",
-    "mark": 44,
-    "rank": 146,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10279,
-    "name": "AYISHA FARHEEN",
-    "mark": 44,
-    "rank": 147,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10331,
-    "name": "DIYA K",
-    "mark": 44,
-    "rank": 148,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10352,
-    "name": "SHEZA MEHRISH ",
-    "mark": 44,
-    "rank": 149,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10366,
-    "name": "SNEHA FATHIMA ",
-    "mark": 44,
-    "rank": 150,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10146,
-    "name": "SREENANDHA S MANOJ",
-    "mark": 43,
-    "rank": 151,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10286,
-    "name": "SHADA FATHIMA V.K",
-    "mark": 43,
-    "rank": 152,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10190,
-    "name": "NIVED SUNIL. T",
-    "mark": 43,
-    "rank": 153,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10267,
-    "name": "MUHD JAYYID TK",
-    "mark": 43,
-    "rank": 154,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10225,
-    "name": "ARYANANDA",
-    "mark": 42,
-    "rank": 155,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10111,
-    "name": "VAIGA LAKSHMI",
-    "mark": 42,
-    "rank": 156,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10184,
-    "name": "ADISH PR",
-    "mark": 42,
-    "rank": 157,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10308,
-    "name": "DIYA FATHIMA",
-    "mark": 41,
-    "rank": 158,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10373,
-    "name": "MISNA FATHIMA",
-    "mark": 41,
-    "rank": 159,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10368,
-    "name": "KADEEJA MINHA EP",
-    "mark": 40,
-    "rank": 160,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10371,
-    "name": "RIYA FATHIMA CM",
-    "mark": 40,
-    "rank": 161,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10185,
-    "name": "MHD MIRSAH",
-    "mark": 40,
-    "rank": 162,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10105,
-    "name": "ANANDHIKA U",
-    "mark": 40,
-    "rank": 163,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10126,
-    "name": "ALFA MEHARIN",
-    "mark": 40,
-    "rank": 164,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10178,
-    "name": "RAYYAN",
-    "mark": 40,
-    "rank": 165,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10378,
-    "name": "SHAHANA SHERIN MC ",
-    "mark": 40,
-    "rank": 166,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10183,
-    "name": "MUHD NASIM",
-    "mark": 40,
-    "rank": 167,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10365,
-    "name": "JINSIYA MEHABIN",
-    "mark": 39,
-    "rank": 168,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10220,
-    "name": "AIZA AININ",
-    "mark": 39,
-    "rank": 169,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10194,
-    "name": "NAVADEV ",
-    "mark": 39,
-    "rank": 170,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10123,
-    "name": "RANHA FADIYA",
-    "mark": 39,
-    "rank": 171,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10346,
-    "name": "MUHD RISHAN",
-    "mark": 38,
-    "rank": 172,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10187,
-    "name": "YADHA KRISHNA PP",
-    "mark": 38,
-    "rank": 173,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10111,
-    "name": "VAIGA LAKSHMI V",
-    "mark": 38,
-    "rank": 174,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10219,
-    "name": "RIYA THANHA",
-    "mark": 38,
-    "rank": 175,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10163,
-    "name": "KARTHIK B RAJ",
-    "mark": 37,
-    "rank": 176,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10202,
-    "name": "AMNA SHERIN",
-    "mark": 37,
-    "rank": 177,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10306,
-    "name": "HAYA FATHIMA",
-    "mark": 37,
-    "rank": 178,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10234,
-    "name": "MHD FEBIN ",
-    "mark": 37,
-    "rank": 179,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10356,
-    "name": "ZAIMA LANNA",
-    "mark": 36,
-    "rank": 180,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10260,
-    "name": "MHD RIZAN C.H",
-    "mark": 36,
-    "rank": 181,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10350,
-    "name": "RANIYA FEBIN",
-    "mark": 35,
-    "rank": 182,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10289,
-    "name": "THAMEEMA CA",
-    "mark": 35,
-    "rank": 183,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10290,
-    "name": "AYISH NADWA",
-    "mark": 35,
-    "rank": 184,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10221,
-    "name": "FAHMIDHA SHERIN",
-    "mark": 35,
-    "rank": 185,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10258,
-    "name": "IRFANA V.M",
-    "mark": 35,
-    "rank": 186,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10251,
-    "name": "MHD SHADIN",
-    "mark": 35,
-    "rank": 187,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10228,
-    "name": "FATHIMA SIYANA",
-    "mark": 35,
-    "rank": 188,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10261,
-    "name": "MUHD HIJAN",
-    "mark": 34,
-    "rank": 189,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10112,
-    "name": "SREYA KK",
-    "mark": 34,
-    "rank": 190,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10357,
-    "name": "ADHIYA LAKSHMI",
-    "mark": 34,
-    "rank": 191,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10336,
-    "name": "NAMITHA",
-    "mark": 34,
-    "rank": 192,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10240,
-    "name": "AJVAD",
-    "mark": 33,
-    "rank": 193,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10188,
-    "name": "SHAZIN ",
-    "mark": 33,
-    "rank": 194,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10184,
-    "name": "SAYOOJ",
-    "mark": 33,
-    "rank": 195,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10168,
-    "name": "HARIKRSHNAN S A",
-    "mark": 33,
-    "rank": 196,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10196,
-    "name": "DEEPU N K",
-    "mark": 33,
-    "rank": 197,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10248,
-    "name": "MHD MIRSA MARJAN",
-    "mark": 32,
-    "rank": 198,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10284,
-    "name": "RAJA FATHIMA ",
-    "mark": 31,
-    "rank": 199,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10364,
-    "name": "RIFINA FATHIMA",
-    "mark": 31,
-    "rank": 200,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10276,
-    "name": "NAJA FATHIMA",
-    "mark": 31,
-    "rank": 201,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10166,
-    "name": "SINAN M",
-    "mark": 31,
-    "rank": 202,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10186,
-    "name": "MUHD RISHAL",
-    "mark": 31,
-    "rank": 203,
-    "amount": 1000
-  },
-  {
-    "reg_no": NaN,
-    "name": "SHADA SHERIN K",
-    "mark": 30,
-    "rank": 204,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10143,
-    "name": "IRSHA MEHARIN",
-    "mark": 30,
-    "rank": 205,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10229,
-    "name": "THAMANNA FATHIMA",
-    "mark": 30,
-    "rank": 206,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10164,
-    "name": "MHD NIDAN",
-    "mark": 30,
-    "rank": 207,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10149,
-    "name": "FAHIM",
-    "mark": 30,
-    "rank": 208,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10334,
-    "name": "NUHA FATHIMA ",
-    "mark": 30,
-    "rank": 209,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10139,
-    "name": "SIVA MITHRA",
-    "mark": 30,
-    "rank": 210,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10224,
-    "name": "THANHA ",
-    "mark": 30,
-    "rank": 211,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10174,
-    "name": "MUHD RISWAN ",
-    "mark": 30,
-    "rank": 212,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10345,
-    "name": "MUHAMMED CK",
-    "mark": 30,
-    "rank": 213,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10253,
-    "name": "NIDHAN AK",
-    "mark": 30,
-    "rank": 214,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10288,
-    "name": "RIFA FATHIMA T",
-    "mark": 30,
-    "rank": 215,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10341,
-    "name": "MHD SAFWAN",
-    "mark": 29,
-    "rank": 216,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10295,
-    "name": "RINU FATHIMA",
-    "mark": 29,
-    "rank": 217,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10135,
-    "name": "ILFA FATHIMA",
-    "mark": 29,
-    "rank": 218,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10343,
-    "name": "FANVAN",
-    "mark": 29,
-    "rank": 219,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10298,
-    "name": "HANA FATHIMA",
-    "mark": 28,
-    "rank": 220,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10324,
-    "name": "NIYA SHERIN ",
-    "mark": 28,
-    "rank": 221,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10165,
-    "name": "ALAN.N ",
-    "mark": 26,
-    "rank": 222,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10103,
-    "name": "NANDANA",
-    "mark": 26,
-    "rank": 223,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10169,
-    "name": "AMEG",
-    "mark": 26,
-    "rank": 229,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10275,
-    "name": "ZIYA FATHIMA",
-    "mark": 26,
-    "rank": 235,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10311,
-    "name": "SHIVANYASREE UV",
-    "mark": 25,
-    "rank": 224,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10191,
-    "name": "ANUSHNAV SHAJI",
-    "mark": 25,
-    "rank": 225,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10177,
-    "name": "HARI CHAND",
-    "mark": 25,
-    "rank": 226,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10199,
-    "name": "MEDINI",
-    "mark": 25,
-    "rank": 227,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10337,
-    "name": "NAJA FATHIMA",
-    "mark": 25,
-    "rank": 228,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10222,
-    "name": "HANNA FATHIMA",
-    "mark": 25,
-    "rank": 230,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10283,
-    "name": "AYISHA NIYA",
-    "mark": 25,
-    "rank": 231,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10296,
-    "name": "RANA FATHIMA ",
-    "mark": 24,
-    "rank": 232,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10305,
-    "name": "FATHIMA RANHA",
-    "mark": 24,
-    "rank": 237,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10344,
-    "name": "MHD AZIM",
-    "mark": 23,
-    "rank": 233,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10342,
-    "name": "HANAN YASEEN",
-    "mark": 23,
-    "rank": 234,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10155,
-    "name": "DEVADATH SP",
-    "mark": 23,
-    "rank": 238,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10173,
-    "name": "SAMAY ",
-    "mark": 23,
-    "rank": 255,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10354,
-    "name": "ABDUL NAFIH",
-    "mark": 22,
-    "rank": 236,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10119,
-    "name": "MEHARA FATHIMA",
-    "mark": 20,
-    "rank": 239,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10136,
-    "name": "SHAHANA FATHIMA",
-    "mark": 18,
-    "rank": 240,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10120,
-    "name": "RIYA FATHIMA P",
-    "mark": 18,
-    "rank": 245,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10340,
-    "name": "RANIYA",
-    "mark": 18,
-    "rank": 249,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10287,
-    "name": "SHABEELA ",
-    "mark": 18,
-    "rank": 254,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10291,
-    "name": "SIYANA AYISHA",
-    "mark": 16,
-    "rank": 241,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10370,
-    "name": "NISHAN",
-    "mark": 16,
-    "rank": 243,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10310,
-    "name": "MINHA FATHIMA",
-    "mark": 15,
-    "rank": 242,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10172,
-    "name": "LAMIH ABDULLA",
-    "mark": 15,
-    "rank": 248,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10359,
-    "name": "MHD YASEEN",
-    "mark": 15,
-    "rank": 250,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10218,
-    "name": "HANIYA SHERIN",
-    "mark": 15,
-    "rank": 257,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10411,
-    "name": "Shahana Sharin",
-    "mark": 15,
-    "rank": 309,
-    "amount": 1000
-  },
-  {
-    "reg_no": NaN,
-    "name": "MHD FADI",
-    "mark": 14,
-    "rank": 258,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10203,
-    "name": "DEVAPRIYA KS",
-    "mark": 14,
-    "rank": 271,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10419,
-    "name": "Fathima Minna",
-    "mark": 14,
-    "rank": 317,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10171,
-    "name": "ADHIL KRISHNA",
-    "mark": 13,
-    "rank": 244,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10304,
-    "name": "THANHA FATHIMA",
-    "mark": 13,
-    "rank": 246,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10158,
-    "name": "MHD FALIH K.V",
-    "mark": 13,
-    "rank": 251,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10175,
-    "name": "RISHINAND LK ",
-    "mark": 13,
-    "rank": 253,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10348,
-    "name": "MUHD NASIM",
-    "mark": 13,
-    "rank": 260,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10244,
-    "name": "MHD SINAN AK",
-    "mark": 13,
-    "rank": 261,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10355,
-    "name": "ASHMIYA",
-    "mark": 13,
-    "rank": 262,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10297,
-    "name": "FAIHA FATHIMA",
-    "mark": 13,
-    "rank": 278,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10389,
-    "name": "Devatheertha R Babu",
-    "mark": 13,
-    "rank": 287,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10408,
-    "name": "sinan ",
-    "mark": 13,
-    "rank": 306,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10413,
-    "name": "Wafi Abdul Majeed",
-    "mark": 13,
-    "rank": 311,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10418,
-    "name": "Laamia ",
-    "mark": 13,
-    "rank": 316,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10118,
-    "name": "FATHIMA RUMAISA",
-    "mark": 12,
-    "rank": 247,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10281,
-    "name": "SHEHA AFRIN",
-    "mark": 12,
-    "rank": 252,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10294,
-    "name": "AFRA MAHANNA",
-    "mark": 12,
-    "rank": 256,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10193,
-    "name": "SURYA DEV NJ",
-    "mark": 12,
-    "rank": 259,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10257,
-    "name": "MUHD YASEEN KM ",
-    "mark": 12,
-    "rank": 263,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10124,
-    "name": "JAHANA FATHIMA ",
-    "mark": 12,
-    "rank": 266,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10121,
-    "name": "AYISHA HUSSAIN",
-    "mark": 12,
-    "rank": 272,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10270,
-    "name": "RASHA FATHIMA",
-    "mark": 12,
-    "rank": 277,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10383,
-    "name": "Afin Abdulla K",
-    "mark": 12,
-    "rank": 281,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10388,
-    "name": "Dhyan Thej J B",
-    "mark": 12,
-    "rank": 286,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10390,
-    "name": "Thejalakshmi S A",
-    "mark": 12,
-    "rank": 288,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10396,
-    "name": "Haya Hamina Hameed",
-    "mark": 12,
-    "rank": 294,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10398,
-    "name": "Sreenandana",
-    "mark": 12,
-    "rank": 296,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10407,
-    "name": "Adnan M K",
-    "mark": 12,
-    "rank": 305,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10412,
-    "name": "Wafa Abdul Majeed",
-    "mark": 12,
-    "rank": 310,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10417,
-    "name": "Fathima ",
-    "mark": 12,
-    "rank": 315,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10286,
-    "name": "KOUSHIK",
-    "mark": 11,
-    "rank": 265,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10385,
-    "name": "Muhammed Masmid ",
-    "mark": 11,
-    "rank": 283,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10400,
-    "name": "Sreelakshmi M T",
-    "mark": 11,
-    "rank": 298,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10353,
-    "name": "HADI",
-    "mark": 10,
-    "rank": 264,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10148,
-    "name": "FATHIMA MEHARIN ",
-    "mark": 10,
-    "rank": 270,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10159,
-    "name": "ANAMGHA DEV",
-    "mark": 10,
-    "rank": 273,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10372,
-    "name": "AMAL DEVA V",
-    "mark": 10,
-    "rank": 276,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10382,
-    "name": "Badrinath N P",
-    "mark": 10,
-    "rank": 280,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10384,
-    "name": "Haneen Muhammed K",
-    "mark": 10,
-    "rank": 282,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10391,
-    "name": "Assin K",
-    "mark": 10,
-    "rank": 289,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10397,
-    "name": "Muhammed Fadhil K P",
-    "mark": 10,
-    "rank": 295,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10399,
-    "name": "Safa V C",
-    "mark": 10,
-    "rank": 297,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10406,
-    "name": "Muhammed Liyan K P",
-    "mark": 10,
-    "rank": 304,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10409,
-    "name": "Hadiya Amna Beeba",
-    "mark": 10,
-    "rank": 307,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10414,
-    "name": "Ridha Fathima",
-    "mark": 10,
-    "rank": 312,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10243,
-    "name": "MHD ANFAL",
-    "mark": 9,
-    "rank": 267,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10256,
-    "name": "MHD NAZIL T",
-    "mark": 9,
-    "rank": 269,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10339,
-    "name": "HIDHA HADHEEJA",
-    "mark": 9,
-    "rank": 274,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10205,
-    "name": "FATHIMATH RABEEH",
-    "mark": 9,
-    "rank": 279,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10392,
-    "name": "Abin Sinoj",
-    "mark": 9,
-    "rank": 290,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10395,
-    "name": "Anushmika",
-    "mark": 9,
-    "rank": 293,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10401,
-    "name": "Ashima C K",
-    "mark": 9,
-    "rank": 299,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10403,
-    "name": "Muhammed Najad N",
-    "mark": 9,
-    "rank": 301,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10405,
-    "name": "Marva V C",
-    "mark": 9,
-    "rank": 303,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10410,
-    "name": "Abhay Krishna",
-    "mark": 9,
-    "rank": 308,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10415,
-    "name": "Muhammad Afnan",
-    "mark": 9,
-    "rank": 313,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10236,
-    "name": "MUHD FASEEH",
-    "mark": 8,
-    "rank": 268,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10101,
-    "name": "ANIKA RAVEENDRAN",
-    "mark": 8,
-    "rank": 275,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10386,
-    "name": "Muhammad Salim",
-    "mark": 8,
-    "rank": 284,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10393,
-    "name": "Veda Lakshmi P S",
-    "mark": 8,
-    "rank": 291,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10402,
-    "name": "Aamir Rizan N T",
-    "mark": 8,
-    "rank": 300,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10416,
-    "name": "Finan Vaheed",
-    "mark": 8,
-    "rank": 314,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10394,
-    "name": "Hanaan Ahmed",
-    "mark": 7,
-    "rank": 292,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10420,
-    "name": "Rifa Fathima",
-    "mark": 7,
-    "rank": 318,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10404,
-    "name": "Muhammad Nafidh",
-    "mark": 6,
-    "rank": 302,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10421,
-    "name": "Sanha Fathima",
-    "mark": 5,
-    "rank": 319,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10387,
-    "name": "Sanin Muhammad",
-    "mark": 4,
-    "rank": 285,
-    "amount": 1000
-  },
-  {
-    "reg_no": 10422,
-    "name": "Lana Mehabin",
-    "mark": 3,
-    "rank": 320,
     "amount": 1000
   }
 ]
-
-
